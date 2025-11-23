@@ -2,10 +2,12 @@
 <!-- slug: avalon-team-todo-list -->
 <!-- title: Avalon Team - Spring Boot Todo List -->
 <!-- description: Todo list web application built with Spring Boot, JPA, Thymeleaf, and Spring Security for OOP course project -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-avalon-todo -->
+<!-- image: https://github.com/user-attachments/assets/e0397bbb-2687-4cb1-a629-3a60c095d241 -->
 <!-- tags: java, spring-boot, jpa, thymeleaf, spring-security, todo-app, maven -->
 
 # Avalon Team - Spring Boot Todo List Application
+
+<img width="1536" height="1024" alt="avalon-team" src="https://github.com/user-attachments/assets/e0397bbb-2687-4cb1-a629-3a60c095d241" />
 
 A full-featured todo list web application built with Spring Boot framework. This project was developed as a group assignment for the Object-Oriented Programming (PBO - Pemrograman Berbasis Objek) course, demonstrating modern Java web development practices.
 
